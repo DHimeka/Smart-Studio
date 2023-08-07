@@ -1,0 +1,74 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C22 NewDesignator=C?
+Change Component Designator: OldDesignator=C23 NewDesignator=C?
+Change Component Designator: OldDesignator=FB1 NewDesignator=FB?
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U?
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Change Component Designator: OldDesignator=U7 NewDesignator=U?
+Change Component Designator: OldDesignator=U8 NewDesignator=U?
+Change Component Designator: OldDesignator=U9 NewDesignator=U?
+Change Component Designator: OldDesignator=U10 NewDesignator=U?
+Change Component Designator: OldDesignator=U11 NewDesignator=U?
+Change Component Designator: OldDesignator=U12 NewDesignator=U?
+Change Component Designator: OldDesignator=U13 NewDesignator=U?
+Change Component Designator: OldDesignator=U14 NewDesignator=U?
+Change Component Designator: OldDesignator=U15 NewDesignator=U?
+Change Component Designator: OldDesignator=U16 NewDesignator=U?
+Change Component Designator: OldDesignator=U17 NewDesignator=U?
+Change Component Designator: OldDesignator=U18 NewDesignator=U?
+Change Component Designator: OldDesignator=U19 NewDesignator=U?
+Change Component Designator: OldDesignator=U20 NewDesignator=U?
+Change Component Designator: OldDesignator=U21 NewDesignator=U?
+Change Net Name : Old Net Name=NetFB1_1 New Net Name=NetFB?_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU2_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU3_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU4_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU5_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU6_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU7_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU8_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU9_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU10_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU12_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU13_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU14_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU15_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU16_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU17_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU18_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU19_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU20_2 New Net Name=NetU?_2

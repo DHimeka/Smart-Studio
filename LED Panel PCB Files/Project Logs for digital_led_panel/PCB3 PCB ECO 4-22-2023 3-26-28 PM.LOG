@@ -1,0 +1,120 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Component Designator: OldDesignator=U? NewDesignator=U12
+Change Component Designator: OldDesignator=U? NewDesignator=U13
+Change Component Designator: OldDesignator=U? NewDesignator=U14
+Change Component Designator: OldDesignator=U? NewDesignator=U15
+Change Component Designator: OldDesignator=U? NewDesignator=U16
+Change Component Designator: OldDesignator=U? NewDesignator=U17
+Change Component Designator: OldDesignator=U? NewDesignator=U18
+Change Component Designator: OldDesignator=U? NewDesignator=U19
+Change Component Designator: OldDesignator=U? NewDesignator=U20
+Change Component Designator: OldDesignator=U? NewDesignator=U21
+Change Net Name : Old Net Name=NetFB?_1 New Net Name=NetFB1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU1_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU2_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU3_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU4_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU5_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU6_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU7_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU8_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU9_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU10_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU12_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU13_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU14_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU15_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU16_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU17_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU18_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU19_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU20_2
+Added Member To Class: ClassName=digital led panel Member=Component C1 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C2 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C3 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C4 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C5 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C6 10uF
+Added Member To Class: ClassName=digital led panel Member=Component C7 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C8 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C9 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C10 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C11 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C12 0.1uF
+Added Member To Class: ClassName=digital led panel Member=Component C13 100uF
+Added Member To Class: ClassName=digital led panel Member=Component C14 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C16 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C17 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C18 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C19 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C20 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C21 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C22 100nF
+Added Member To Class: ClassName=digital led panel Member=Component C23 100nF
+Added Member To Class: ClassName=digital led panel Member=Component FB1 15m
+Added Member To Class: ClassName=digital led panel Member=Component J1 5000
+Added Member To Class: ClassName=digital led panel Member=Component J3 5001
+Added Member To Class: ClassName=digital led panel Member=Component R2 3.4K
+Added Member To Class: ClassName=digital led panel Member=Component U1 1655
+Added Member To Class: ClassName=digital led panel Member=Component U2 1655
+Added Member To Class: ClassName=digital led panel Member=Component U4 1655
+Added Member To Class: ClassName=digital led panel Member=Component U5 1655
+Added Member To Class: ClassName=digital led panel Member=Component U6 1655
+Added Member To Class: ClassName=digital led panel Member=Component U7 1655
+Added Member To Class: ClassName=digital led panel Member=Component U8 1655
+Added Member To Class: ClassName=digital led panel Member=Component U9 1655
+Added Member To Class: ClassName=digital led panel Member=Component U10 1655
+Added Member To Class: ClassName=digital led panel Member=Component U11 AP22615AWU-7
+Added Member To Class: ClassName=digital led panel Member=Component U12 1655
+Added Member To Class: ClassName=digital led panel Member=Component U13 1655
+Added Member To Class: ClassName=digital led panel Member=Component U14 1655
+Added Member To Class: ClassName=digital led panel Member=Component U15 1655
+Added Member To Class: ClassName=digital led panel Member=Component U16 1655
+Added Member To Class: ClassName=digital led panel Member=Component U17 1655
+Added Member To Class: ClassName=digital led panel Member=Component U18 1655
+Added Member To Class: ClassName=digital led panel Member=Component U19 1655
+Added Member To Class: ClassName=digital led panel Member=Component U20 1655
+Added Member To Class: ClassName=digital led panel Member=Component U21 1655
