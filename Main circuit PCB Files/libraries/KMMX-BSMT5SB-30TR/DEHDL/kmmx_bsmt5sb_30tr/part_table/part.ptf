@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KMMX_BSMT5SB_30TR'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kycon", "KMMX-BSMT5SB-30TR" (!) = "", "KMMXBSMT5SB30TR", "Other", "806-KMMX-BSMT5SB-30", "https://www.mouser.co.uk/ProductDetail/Kycon/KMMX-BSMT5SB-30TR?qs=PZ1ub9NEDaWcdVwXxQY48w%3D%3D", "USB Connectors MICRO USB TYPE B SMT BLACK 30"GOLD", "http://www.kycon.com/Pub_Eng_Draw/KMMX-BSMT5SB-30TR.pdf", "3 mm"
+END_PART
+
+END.

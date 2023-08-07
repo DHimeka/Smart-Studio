@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "KMMXBSMT5SB30TR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "KMMXBSMT5SB30TR")
+        (spec "default")
+    )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KMMX-BSMT5SB-30TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-03-13:03:56)
+    (mountForm default
+        (footprintRef "KMMXBSMT5SB30TR")
+        (spec "System")
+    )
+)
