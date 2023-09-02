@@ -7,9 +7,11 @@ For the individual project during the fourth semester for the module Electronic 
 - [Problem Statement](#problem-statement)
 - [Design Approach](#design-approach)
 - [Prototype Design](#prototype-design)
+  
    -[PCB Design](#pcb)
    -[Enclosure Design](#enclosure)
    -[Testing](#test)
+  
 - [Final Design](#final-design)
 - [Bill of Materials](#bill-of-materials)
 - [Suppliers](#suppliers)
