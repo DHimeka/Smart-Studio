@@ -15,14 +15,11 @@ For the individual project during the fourth semester for the module Electronic 
    -[Testing](#test)
   
 - [Final Design](#final-design)
-- [Bill of Materials](#bill-of-materials)
+
 - [Suppliers](#suppliers)
 - [Assembly Instructions](#assembly-instructions)
 - [Future Improvements](#future-improvements)
-- [Acknowledgment](#acknowledgment)
-- [Bibliography](#bibliography)
-- [User Manual](#user-manual)
-- [Appendices](#appendices)
+
 
 ## Introduction
 
