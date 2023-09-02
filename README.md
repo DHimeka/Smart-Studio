@@ -9,7 +9,9 @@ For the individual project during the fourth semester for the module Electronic 
 - [Prototype Design](#prototype-design)
   
    -[PCB Design](#pcb)
+  
    -[Enclosure Design](#enclosure)
+  
    -[Testing](#test)
   
 - [Final Design](#final-design)
